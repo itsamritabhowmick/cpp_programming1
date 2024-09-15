@@ -1,0 +1,1 @@
+cout<<"\nThe second largest element is: "<<smax;
